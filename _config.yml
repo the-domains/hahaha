@@ -1,0 +1,28 @@
+name: hahaha
+favicon: null
+layout_spectrum: 0.43094713566824794
+typography_spectrum: 0.7180465895216912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7341786823235452
+  lightness: 0.8098749774508178
+  saturation: 0.7806768110021949
+  rhythmicContrast: 0.4117434879299253
+purpose: []
